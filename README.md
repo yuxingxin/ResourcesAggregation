@@ -1,2 +1,75 @@
-# ResourcesAggregation
-Summary of resources in the development of Android, IOS, Html5.
+# 移动开发资源汇总
+这里关注移动互联网技术，汇总和整理开发过程中遇到的好的资源，以及项目管理的方方面面。
+
+## 项目开发
+1. [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/): 一种借助Git分支来完成项目开发的工作流程，如果你还在用SVN，那么不妨试一下Git，值得拥有，附上[GitHub地址](https://github.com/nvie/gitflow)。
+
+## Android开发
+关于Android开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
+
+### 资源篇
+|网站|地址|
+|---|----|
+|[GitHub](https://github.com/MobileDevGroup/AndroidDevelopmentTutorial)|<https://github.com/MobileDevGroup/AndroidDevelopmentTutorial>|
+|[Bitbucket](https://bitbucket.org/androiddevgroup/androiddevelopmenttutorial)|<https://bitbucket.org/androiddevgroup/androiddevelopmenttutorial>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/AndroidDevelopmentTutorial)|<https://git.oschina.net/yuxingxin/AndroidDevelopmentTutorial>|
+|[GitCafe](https://gitcafe.com/MobileTeam/AndroidDevelopmentTutorial)|<https://gitcafe.com/MobileTeam/AndroidDevelopmentTutorial>|
+|[Coding](https://coding.net/u/yuxingxin/p/AndroidDevelopmentTutorial/git)|<https://coding.net/u/yuxingxin/p/AndroidDevelopmentTutorial/git>|
+|[GitLab](https://gitlab.com/MobileDevTeam/AndroidDevelopmentTutorial)|<https://gitlab.com/MobileDevTeam/AndroidDevelopmentTutorial>|
+
+
+### 文章进阶篇
+|网站|地址|
+|---|----|
+|[GitHub](https://github.com/AndroidDevTeam/AndroidDevelopmentOfAdvanced)|<https://github.com/AndroidDevTeam/AndroidDevelopmentOfAdvanced>|
+|[Bitbucket](https://bitbucket.org/androiddevgroup/androiddevelopmentofadvanced)|<https://bitbucket.org/androiddevgroup/androiddevelopmentofadvanced>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/AndroidDevelopmentOfAdvanced)|<https://git.oschina.net/yuxingxin/AndroidDevelopmentOfAdvanced>|
+|[GitCafe](https://gitcafe.com/AndroidTeam/AndroidDevelopmentOfAdvanced)|<https://gitcafe.com/AndroidTeam/AndroidDevelopmentOfAdvanced>|
+|[Coding](https://coding.net/u/yuxingxin/p/AndroidDevelopmentOfAdvanced/git)|<https://coding.net/u/yuxingxin/p/AndroidDevelopmentOfAdvanced/git>|
+|[GitLab](https://gitlab.com/AndroidDevTeam/AndroidDevelopmentOfAdvanced)|<https://gitlab.com/AndroidDevTeam/AndroidDevelopmentOfAdvanced>|
+
+## IOS开发
+关于IOS开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
+
+### 资源篇
+|网站|地址|
+|---|----|
+|[GitHub](https://github.com/MobileDevGroup/IOSDevelopmentTutorial)|<https://github.com/MobileDevGroup/IOSDevelopmentTutorial>|
+|[Bitbucket](https://bitbucket.org/iosdevgroup/iosdevelopmenttutorial)|<https://bitbucket.org/iosdevgroup/iosdevelopmenttutorial>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/IOSDevelopmentTutorial)|<https://git.oschina.net/yuxingxin/IOSDevelopmentTutorial>|
+|[GitCafe](https://gitcafe.com/MobileTeam/IOSDevelopmentTutorial)|<https://gitcafe.com/MobileTeam/IOSDevelopmentTutorial>|
+|[Coding](https://coding.net/u/yuxingxin/p/IOSDevelopmentTutorial/git)|<https://coding.net/u/yuxingxin/p/IOSDevelopmentTutorial/git>|
+|[GitLab](https://gitlab.com/MobileDevTeam/IOSDevelopmentTutorial)|<https://gitlab.com/MobileDevTeam/IOSDevelopmentTutorial>|
+
+
+### 文章进阶篇
+|网站|地址|
+|---|----|
+|[GitHub](https://github.com/IOSDevelopmentTeam/IOSDevelopmentOfAdvanced)|<https://github.com/IOSDevelopmentTeam/IOSDevelopmentOfAdvanced>|
+|[Bitbucket](https://bitbucket.org/iosdevgroup/iosdevelopmentofadvanced)|<https://bitbucket.org/iosdevgroup/iosdevelopmentofadvanced>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/IOSDevelopmentOfAdvanced)|<https://git.oschina.net/yuxingxin/IOSDevelopmentOfAdvanced>|
+|[GitCafe](https://gitcafe.com/IOSTeam/IOSDevelopmentOfAdvanced)|<https://gitcafe.com/IOSTeam/IOSDevelopmentOfAdvanced>|
+|[Coding](https://coding.net/u/yuxingxin/p/IOSDevelopmentOfAdvanced/git)|<https://coding.net/u/yuxingxin/p/IOSDevelopmentOfAdvanced/git>|
+|[GitLab](https://gitlab.com/IOSDevTeam/IOSDevelopmentOfAdvanced)|<https://gitlab.com/IOSDevTeam/IOSDevelopmentOfAdvanced>|
+## Html5开发
+关于Html5开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
+
+### 资源篇
+|网站|地址|
+|---|----|
+|[GitHub](https://github.com/MobileDevGroup/Html5DevelopmentTutorial)|<https://github.com/MobileDevGroup/Html5DevelopmentTutorial>|
+|[Bitbucket](https://bitbucket.org/html5devgroup/html5developmenttutorial)|<https://bitbucket.org/html5devgroup/html5developmenttutorial>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/Html5DevelopmentTutorial)|<https://git.oschina.net/yuxingxin/Html5DevelopmentTutorial>|
+|[GitCafe](https://gitcafe.com/MobileTeam/Html5DevelopmentTutorial)|<https://gitcafe.com/MobileTeam/Html5DevelopmentTutorial>|
+|[Coding](https://coding.net/u/yuxingxin/p/Html5DevelopmentTutorial/git)|<https://coding.net/u/yuxingxin/p/Html5DevelopmentTutorial/git>|
+|[GitLab](https://gitlab.com/MobileDevTeam/Html5DevelopmentTutorial)|<https://gitlab.com/MobileDevTeam/Html5DevelopmentTutorial>|
+
+### 文章进阶篇
+|网站|地址|
+|---|----|
+|[GitHub](https://github.com/Html5DevTeam/Html5DevelopmentOfAdvanced)|<https://github.com/Html5DevTeam/Html5DevelopmentOfAdvanced>|
+|[Bitbucket](https://bitbucket.org/html5devgroup/html5developmentofadvanced)|<https://bitbucket.org/html5devgroup/html5developmentofadvanced>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/Html5DevelopmentOfAdvanced)|<https://git.oschina.net/yuxingxin/Html5DevelopmentOfAdvanced>|
+|[GitCafe](https://gitcafe.com/Html5Team/Html5DevelopmentOfAdvanced)|<https://gitcafe.com/Html5Team/Html5DevelopmentOfAdvanced>|
+|[Coding](https://coding.net/u/yuxingxin/p/Html5DevelopmentOfAdvanced/git)|<https://coding.net/u/yuxingxin/p/Html5DevelopmentOfAdvanced/git>|
+|[GitLab](https://gitlab.com/Html5DevTeam/Html5DevelopmentOfAdvanced)|<https://gitlab.com/Html5DevTeam/Html5DevelopmentOfAdvanced>|
