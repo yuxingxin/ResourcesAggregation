@@ -3,6 +3,7 @@
 
 ## 项目开发
 1. [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/): 一种借助Git分支来完成项目开发的工作流程，如果你还在用SVN，那么不妨试一下Git，值得拥有，附上[GitHub地址](https://github.com/nvie/gitflow)。
+2. [slack群组](http://slack.com/)：Slack 是聊天群组 + 大规模工具集成 + 文件整合 + 统一搜索集为一体，是团队项目开发沟通的首选。
 
 ## Android开发
 关于Android开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
