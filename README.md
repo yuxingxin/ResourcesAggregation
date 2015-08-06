@@ -11,7 +11,7 @@
 ### 资源篇
 |网站|地址|
 |---|----|
-|[GitHub](https://github.com/MobileDevGroup/AndroidDevelopmentTutorial)|<https://github.com/MobileDevGroup/AndroidDevelopmentTutorial>|
+|[GitHub](https://github.com/MobDevGroup/AndroidDevelopmentTutorial)|<https://github.com/MobDevGroup/AndroidDevelopmentTutorial>|
 |[Bitbucket](https://bitbucket.org/androiddevgroup/androiddevelopmenttutorial)|<https://bitbucket.org/androiddevgroup/androiddevelopmenttutorial>|
 |[Git@OSC](https://git.oschina.net/yuxingxin/AndroidDevelopmentTutorial)|<https://git.oschina.net/yuxingxin/AndroidDevelopmentTutorial>|
 |[GitCafe](https://gitcafe.com/MobileTeam/AndroidDevelopmentTutorial)|<https://gitcafe.com/MobileTeam/AndroidDevelopmentTutorial>|
@@ -35,7 +35,7 @@
 ### 资源篇
 |网站|地址|
 |---|----|
-|[GitHub](https://github.com/MobileDevGroup/IOSDevelopmentTutorial)|<https://github.com/MobileDevGroup/IOSDevelopmentTutorial>|
+|[GitHub](https://github.com/MobDevGroup/IOSDevelopmentTutorial)|<https://github.com/MobDevGroup/IOSDevelopmentTutorial>|
 |[Bitbucket](https://bitbucket.org/iosdevgroup/iosdevelopmenttutorial)|<https://bitbucket.org/iosdevgroup/iosdevelopmenttutorial>|
 |[Git@OSC](https://git.oschina.net/yuxingxin/IOSDevelopmentTutorial)|<https://git.oschina.net/yuxingxin/IOSDevelopmentTutorial>|
 |[GitCafe](https://gitcafe.com/MobileTeam/IOSDevelopmentTutorial)|<https://gitcafe.com/MobileTeam/IOSDevelopmentTutorial>|
@@ -58,7 +58,7 @@
 ### 资源篇
 |网站|地址|
 |---|----|
-|[GitHub](https://github.com/MobileDevGroup/Html5DevelopmentTutorial)|<https://github.com/MobileDevGroup/Html5DevelopmentTutorial>|
+|[GitHub](https://github.com/MobDevGroup/Html5DevelopmentTutorial)|<https://github.com/MobDevGroup/Html5DevelopmentTutorial>|
 |[Bitbucket](https://bitbucket.org/html5devgroup/html5developmenttutorial)|<https://bitbucket.org/html5devgroup/html5developmenttutorial>|
 |[Git@OSC](https://git.oschina.net/yuxingxin/Html5DevelopmentTutorial)|<https://git.oschina.net/yuxingxin/Html5DevelopmentTutorial>|
 |[GitCafe](https://gitcafe.com/MobileTeam/Html5DevelopmentTutorial)|<https://gitcafe.com/MobileTeam/Html5DevelopmentTutorial>|
