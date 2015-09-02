@@ -29,29 +29,29 @@
 |[Coding](https://coding.net/u/yuxingxin/p/AndroidDevelopmentOfAdvanced/git)|<https://coding.net/u/yuxingxin/p/AndroidDevelopmentOfAdvanced/git>|
 |[GitLab](https://gitlab.com/AndroidDevTeam/AndroidDevelopmentOfAdvanced)|<https://gitlab.com/AndroidDevTeam/AndroidDevelopmentOfAdvanced>|
 
-## IOS开发
-关于IOS开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
+## iOS开发
+关于iOS开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
 
 ### 资源篇
 |网站|地址|
 |---|----|
-|[GitHub](https://github.com/MobDevGroup/IOSDevelopmentTutorial)|<https://github.com/MobDevGroup/IOSDevelopmentTutorial>|
-|[Bitbucket](https://bitbucket.org/iosdevgroup/iosdevelopmenttutorial)|<https://bitbucket.org/iosdevgroup/iosdevelopmenttutorial>|
-|[Git@OSC](https://git.oschina.net/yuxingxin/IOSDevelopmentTutorial)|<https://git.oschina.net/yuxingxin/IOSDevelopmentTutorial>|
-|[GitCafe](https://gitcafe.com/MobileTeam/IOSDevelopmentTutorial)|<https://gitcafe.com/MobileTeam/IOSDevelopmentTutorial>|
-|[Coding](https://coding.net/u/yuxingxin/p/IOSDevelopmentTutorial/git)|<https://coding.net/u/yuxingxin/p/IOSDevelopmentTutorial/git>|
-|[GitLab](https://gitlab.com/MobileDevTeam/IOSDevelopmentTutorial)|<https://gitlab.com/MobileDevTeam/IOSDevelopmentTutorial>|
+|[GitHub](https://github.com/MobDevGroup/iOSDevelopmentTutorial)|<https://github.com/MobDevGroup/iOSDevelopmentTutorial>|
+|[Bitbucket](https://bitbucket.org/iOSdevgroup/iOSdevelopmenttutorial)|<https://bitbucket.org/iOSdevgroup/iOSdevelopmenttutorial>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/iOSDevelopmentTutorial)|<https://git.oschina.net/yuxingxin/iOSDevelopmentTutorial>|
+|[GitCafe](https://gitcafe.com/MobileTeam/iOSDevelopmentTutorial)|<https://gitcafe.com/MobileTeam/iOSDevelopmentTutorial>|
+|[Coding](https://coding.net/u/yuxingxin/p/iOSDevelopmentTutorial/git)|<https://coding.net/u/yuxingxin/p/iOSDevelopmentTutorial/git>|
+|[GitLab](https://gitlab.com/MobileDevTeam/iOSDevelopmentTutorial)|<https://gitlab.com/MobileDevTeam/iOSDevelopmentTutorial>|
 
 
 ### 文章进阶篇
 |网站|地址|
 |---|----|
-|[GitHub](https://github.com/IOSDevelopmentTeam/IOSDevelopmentOfAdvanced)|<https://github.com/IOSDevelopmentTeam/IOSDevelopmentOfAdvanced>|
-|[Bitbucket](https://bitbucket.org/iosdevgroup/iosdevelopmentofadvanced)|<https://bitbucket.org/iosdevgroup/iosdevelopmentofadvanced>|
-|[Git@OSC](https://git.oschina.net/yuxingxin/IOSDevelopmentOfAdvanced)|<https://git.oschina.net/yuxingxin/IOSDevelopmentOfAdvanced>|
-|[GitCafe](https://gitcafe.com/IOSTeam/IOSDevelopmentOfAdvanced)|<https://gitcafe.com/IOSTeam/IOSDevelopmentOfAdvanced>|
-|[Coding](https://coding.net/u/yuxingxin/p/IOSDevelopmentOfAdvanced/git)|<https://coding.net/u/yuxingxin/p/IOSDevelopmentOfAdvanced/git>|
-|[GitLab](https://gitlab.com/IOSDevTeam/IOSDevelopmentOfAdvanced)|<https://gitlab.com/IOSDevTeam/IOSDevelopmentOfAdvanced>|
+|[GitHub](https://github.com/iOSDevelopmentTeam/iOSDevelopmentOfAdvanced)|<https://github.com/iOSDevelopmentTeam/iOSDevelopmentOfAdvanced>|
+|[Bitbucket](https://bitbucket.org/iOSdevgroup/iOSdevelopmentofadvanced)|<https://bitbucket.org/iOSdevgroup/iOSdevelopmentofadvanced>|
+|[Git@OSC](https://git.oschina.net/yuxingxin/iOSDevelopmentOfAdvanced)|<https://git.oschina.net/yuxingxin/iOSDevelopmentOfAdvanced>|
+|[GitCafe](https://gitcafe.com/iOSTeam/iOSDevelopmentOfAdvanced)|<https://gitcafe.com/iOSTeam/iOSDevelopmentOfAdvanced>|
+|[Coding](https://coding.net/u/yuxingxin/p/iOSDevelopmentOfAdvanced/git)|<https://coding.net/u/yuxingxin/p/iOSDevelopmentOfAdvanced/git>|
+|[GitLab](https://gitlab.com/iOSDevTeam/iOSDevelopmentOfAdvanced)|<https://gitlab.com/iOSDevTeam/iOSDevelopmentOfAdvanced>|
 ## Html5开发
 关于Html5开发资源汇总篇：初步分为资源和文章两部分，前者倾向于开发网站、个人博客、开发工具的汇总，后者倾向于开发过程中遇到的专门针对某个技术点讲解好的文章来进行汇总。我把资源也同步在Bitbucket、Git@OSC、GitCafe、Coding、GitLab 这5个开源网站上面。
 
