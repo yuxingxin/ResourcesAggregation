@@ -1,5 +1,10 @@
-# 移动开发资源汇总
+# 移动开发资源汇总(Deprecated)
 这里关注移动互联网技术，汇总和整理开发过程中遇到的好的资源，以及项目管理的方方面面。
+
+## Deprecated
+
+本文已不再更新，所有资源全部列到[MobDevGroup](http://mobdevgroup.com)，以后的学习整理
+的资源都会在MobDevGroup上面更新。
 
 ## 项目开发
 1. [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/): 一种借助Git分支来完成项目开发的工作流程，如果你还在用SVN，那么不妨试一下Git，值得拥有，附上[GitHub地址](https://github.com/nvie/gitflow)。
